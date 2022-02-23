@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.img-logo{
+  background-color: white;
+  padding-top: 60px;
+  justify-content: center;
+  display: flex;
+  margin-left: -1%;
+}

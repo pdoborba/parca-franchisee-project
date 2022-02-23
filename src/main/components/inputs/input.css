@@ -1,0 +1,20 @@
+.input-login {
+  padding: 8% 0.5%;
+  display: block;
+}
+
+input {
+  display: block;
+  padding: 2% 22% 2% 1%;
+  font-size: 12px;
+  border: none;
+  margin-bottom: 1%;
+  background-color: #E9F0FE;
+}
+
+.icon{
+  background-color: white;
+  padding: 1.9%;
+  color: #0C3164;
+
+}

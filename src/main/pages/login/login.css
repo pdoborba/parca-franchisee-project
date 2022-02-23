@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Container {
+  display: flex;
+  align-items: center;
+}
+
+.flex {
+  width: 100%;
+  height: 100%;
+}
+
+.info-login {
+  width: 35%;
+  height: 100vh;
+  display: block;
+  justify-content: center;
+}
+
+.form-login {
+  display: flex;
+  justify-content: center;
+}
+
+.info-img {
+  width: 65%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #0d396f;
+}
+
+.background {
+  background-color: #90d412;
+  width: 100%;
+}
+
+@media only screen and (max-device-width: 900px) {
+    .info-img {
+        display: none;
+      }
+
+      .info-login {
+        width: 100%;
+        height: 100vh;
+        justify-content: center;
+      }
+}
