@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.121df148.css",
-    "main.js": "/static/js/main.fc3bb23c.js",
-    "static/media/login-sticker.png": "/static/media/login-sticker.ffb3b336f8c0e7dc6284.png",
-    "static/media/logo.png": "/static/media/logo.c034b1bcaa7bc791985d.png",
-    "static/media/icon-shop.png": "/static/media/icon-shop.374cf55a7eac89a48ee0.png",
-    "index.html": "/index.html",
-    "main.121df148.css.map": "/static/css/main.121df148.css.map",
-    "main.fc3bb23c.js.map": "/static/js/main.fc3bb23c.js.map"
+    "main.css": "/parca-franchisee-project/static/css/main.121df148.css",
+    "main.js": "/parca-franchisee-project/static/js/main.b3a1f181.js",
+    "static/media/login-sticker.png": "/parca-franchisee-project/static/media/login-sticker.ffb3b336f8c0e7dc6284.png",
+    "static/media/logo.png": "/parca-franchisee-project/static/media/logo.c034b1bcaa7bc791985d.png",
+    "static/media/icon-shop.png": "/parca-franchisee-project/static/media/icon-shop.374cf55a7eac89a48ee0.png",
+    "index.html": "/parca-franchisee-project/index.html",
+    "main.121df148.css.map": "/parca-franchisee-project/static/css/main.121df148.css.map",
+    "main.b3a1f181.js.map": "/parca-franchisee-project/static/js/main.b3a1f181.js.map"
   },
   "entrypoints": [
     "static/css/main.121df148.css",
-    "static/js/main.fc3bb23c.js"
+    "static/js/main.b3a1f181.js"
   ]
 }
